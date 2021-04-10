@@ -1,0 +1,6 @@
+day,temperature,windspeed,event
+01-01-2021,28.0,4.0,Rain
+02-02-2021,32.0,3.0,Sunny
+03-03-2021,34.0,7.0,Cloudy
+04-04-2021,34.0,8.0,Cloudy
+05-05-2021,40.0,10.0,Snow
